@@ -1,6 +1,6 @@
 new Vue({
 	el: '#app',
 	data:{
-		names:['Rober', 'Diana','Ara']
+		names:['Rober', 'Diana','Ara','M. Carmen']
 	}
 })
